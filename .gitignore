@@ -1,0 +1,15 @@
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+node_modules
+cypress/videos
+cypress/screenshots
+results
+results/*.xml
+/test-results/
+/playwright-report/
+/playwright/.cache/
+/test-results/
+
+
